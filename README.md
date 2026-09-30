@@ -106,7 +106,7 @@ Supports conversions for pressure, volume, temperature, and mass.
 - [x] Ideal Gas Law solver
 - [x] Energy Balance calculator
 - [x] Reynolds Number calculator
-- [x] Unit Converter
+- [x] Unit Convertor
 - [ ] Raoult's Law / VLE calculator
 - [ ] LMTD (Heat Exchanger) solver
 - [ ] Matplotlib graphs for VLE curves
